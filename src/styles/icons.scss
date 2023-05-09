@@ -1,0 +1,81 @@
+.icon {
+  display: block;
+
+  &-success {
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-image: url("./icons/success.svg");
+  }
+
+  &-graz {
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-image: url("./icons/graz.svg");
+  }
+
+  &-like {
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-image: url("./icons/like.svg");
+  }
+
+  &-star {
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-image: url("./icons/stars.svg");
+  }
+
+  &-right {
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-image: url("./icons/right.svg");
+  }
+
+  &-left {
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-image: url("./icons/left.svg");
+  }
+
+  &-pen {
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-image: url("./icons/pen.svg");
+  }
+
+  &-book {
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-image: url("./icons/book.svg");
+  }
+
+  &-group {
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-image: url("./icons/group.svg");
+  }
+
+  &-dots {
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-image: url("./icons/dots.svg");
+  }
+
+  &-logo-yk {
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-image: url("./icons/Logo-yk.jpg");
+  }
+
+  &-logo {
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-image: url("./icons/logo.svg");
+  }
+  &-instagram {
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-image: url("./icons/instagram.png");
+  }
+}
